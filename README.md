@@ -1,4 +1,10 @@
 # 2022 New fullStack Learning
 
 Back : Nest.JS
-Front : Vue / Tailwind
+
+## Simple Products API
+
+Product Creation,
+Product GetID
+Product Modification
+Remove Product
