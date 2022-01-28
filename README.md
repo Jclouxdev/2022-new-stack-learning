@@ -4,7 +4,7 @@ Back : Nest.JS
 
 ## Simple Products API
 
-Product Creation,
-Product GetID
-Product Modification
-Remove Product
+- Product Creation
+- Product GetID
+- Product Modification
+- Remove Product
